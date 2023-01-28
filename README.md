@@ -27,5 +27,6 @@ Run main.m to plot GHI and PV generation
 Use case: The GHI measurements can be used to estimate the PV production for a specific plant using model presented in [2].
 
 References: 
+
 [1] Scolari, Enrica. Modelling and Forecasting of Photovoltaic Generation for Microgrid Applications: from Theory to Validation. No. THESIS. EPFL, 2019
 [2] Sossan, F., Scolari, E., Gupta, R. and Paolone, M., 2019. Solar irradiance estimations for modeling the variability of photovoltaic generation and assessing violations of grid constraints: A comparison between satellite and pyranometers measurements with load flow simulations. Journal of Renewable and Sustainable Energy, 11(5), p.056103.
