@@ -2,7 +2,7 @@
 This repository provides time-series of global horizontal irradiance (GHI) and PV production measurements of solar panels at the EPFL's Distributed Electrical Systems Laboratory, Switzerland.
 
 The time-series is recorded over last 5-years. The GHI is measured via a pyranometer installed on the roof-top of the DESL building. The specification of pyranometer are detailed in [1].
-The PV power production is measured on the AC side. During the course of last five years, several instances might have missing data due to reasons related to maintenance etc. of the sensors.
+The PV power production is measured on the AC side. During the course of last five years, several instances might have missing data due to reasons related to maintenance etc. of the sensors. Addionally, it contains 1-seconds resolution data for June, July, Dec 2021 and Jan 2022.
 
 The PV production is associated to the plant with following configuration: 
 
